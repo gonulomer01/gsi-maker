@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://roms.minovo.ml/Firmware/2021/21.3.10/sasd65S45SDE98nf/minovo_lavender_21.3.10_10.0_6254e3e691.zip
+  ROM_URL: https://dlcdnets.asus.com/pub/ASUS/ZenFone/ZS660KL/UL-ASUS_I001_1-ASUS-16.0631.1910.64-1.1.253-user.zip
   ROM_NAME: MIUId
   TZ: Asia/Kolkata
   MIR: wet
